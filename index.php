@@ -4,7 +4,7 @@
     <title>Place Autocomplete</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUHYv5hZeYngnot3J7nKCPX64aEB62uWs&libraries=places&callback=initMap"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUHYv5hZeYngnot3J7nKCPX64aEB62uWs&libraries=places&callback=initialize"
       defer
     ></script>
     <link rel="stylesheet" type="text/css" href="./style.css" />
