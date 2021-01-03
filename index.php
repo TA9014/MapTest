@@ -13,7 +13,7 @@
   <body>
     <div class="pac-card" id="pac-card">
       <div>
-        <div id="title">Autocomplete search</div>
+        <div id="title">Fine the Dine</div>
         <div id="type-selector" class="pac-controls">
           <input
             type="radio"
